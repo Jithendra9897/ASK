@@ -64,6 +64,7 @@ plt.show()
 
 ## GRAPH 
 
+![Uploading WhatsApp Image 2025-04-22 at 10.46.19_8e1ca01a.jpg…]()
 
 
 
